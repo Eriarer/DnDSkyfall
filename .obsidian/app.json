@@ -10,12 +10,10 @@
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": [
     "node_modules/",
-    "docs/",
     "public/",
     "quartz/",
-    "docs/",
     "\\.[A-Za-z]",
     "\\.[A-Za-z]+/",
-    "./"
+    "docs/"
   ]
 }
