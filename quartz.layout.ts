@@ -30,7 +30,30 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      localGraph: {
+        drag: true,
+        zoom: true,
+        depth: 1,
+        scale: 2,
+        repelForce: 0.6,
+        centerForce: 0.4,
+        linkDistance: 20,
+        fontSize: 0.5,
+        showTags: false,
+      },
+      globalGraph:{
+        drag: true,
+        zoom: true,
+        depth: 2,
+        scale: 1.2,
+        repelForce: 0.4,
+        centerForce: 0.3,
+        linkDistance: 30,
+        fontSize: 0.8,
+        showTags: false,
+      }
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],

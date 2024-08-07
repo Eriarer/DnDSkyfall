@@ -156,8 +156,10 @@
   },
   "active": "d7a73c5e1ea35536",
   "lastOpenFiles": [
-    "content/images",
+    "templates/draft.md",
+    "templates",
     "content/index.md",
+    "content/images",
     "content",
     "node_modules/gray-matter/README.md",
     "node_modules/gray-matter/CHANGELOG.md",
@@ -172,8 +174,6 @@
     "public/sitemap.xml",
     "public/tags/index.html",
     "public/tags",
-    "public/index.html",
-    "public/prescript.js",
     "CODE_OF_CONDUCT.md",
     "content/images/maps/TheEtherealVeilMap.jpg"
   ]

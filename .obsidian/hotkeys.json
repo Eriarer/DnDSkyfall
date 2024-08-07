@@ -1,0 +1,11 @@
+{
+  "templater-obsidian:templates/draft.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ]
+}
