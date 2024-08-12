@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "64631da104a539b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fb0d4eddb667c17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7a73c5e1ea35536",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "904a51c339b3dc14",
+    "type": "split",
+    "children": [
+      {
+        "id": "b09b714f23666e82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c06c3dba33f413b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78174228ecd1da08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79a2ea0529fc2ec6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd7fc20e64f69af8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a018666d471ab6a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "167d7117dd00a8b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ca0df10949b0d76",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83ae9c78439883cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fc1e8e4524afbeeb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "43d7b40c2c18d843",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dce21c99b41dc5c5",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 481.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "d7a73c5e1ea35536",
+  "lastOpenFiles": [
+    "templates/draft.md",
+    "templates",
+    "content/index.md",
+    "content/images",
+    "content",
+    "node_modules/gray-matter/README.md",
+    "node_modules/gray-matter/CHANGELOG.md",
+    "README.md",
+    "Vienbenid@ al mundo de Skyfall.md",
+    "public/404.html",
+    "public/static/og-image.png",
+    "public/static/icon.png",
+    "public/static/contentIndex.json",
+    "public/static",
+    "public/index.xml",
+    "public/sitemap.xml",
+    "public/tags/index.html",
+    "public/tags",
+    "CODE_OF_CONDUCT.md",
+    "content/images/maps/TheEtherealVeilMap.jpg"
+  ]
+}
