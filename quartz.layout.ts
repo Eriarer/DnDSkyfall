@@ -39,7 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
         repelForce: 0.6,
         centerForce: 0.4,
         linkDistance: 20,
-        fontSize: 0.5,
+        fontSize: 0.3,
         showTags: false,
       },
       globalGraph:{
@@ -50,7 +50,7 @@ export const defaultContentPageLayout: PageLayout = {
         repelForce: 0.4,
         centerForce: 0.3,
         linkDistance: 30,
-        fontSize: 0.8,
+        fontSize: 0.5,
         showTags: false,
       }
     }),

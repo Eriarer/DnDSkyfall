@@ -1,9 +1,11 @@
 ---
-title: index
+title: Incio
 aliases:
 description: 
 draft: false
-tags: introduccion Skyfall
+tags: 
+- introduccion 
+- Skyfall
 date: 2024-07-29
 ---
 
